@@ -1,8 +1,6 @@
 # meishikbd
 
-![meishikbd](imgur.com image replace me!)
-
-A short description of the keyboard/project
+![IMG_20190501_151807](https://user-images.githubusercontent.com/49835946/57011601-6b450100-6c3d-11e9-853b-f278cab0f3dd.jpg)
 
 Keyboard Maintainer: [RestofKuro](https://github.com/RestofKuro)  
 Hardware Supported: The PCBs, controllers supported  
