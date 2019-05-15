@@ -1,7 +1,7 @@
 # The default keymap for meishikbd
 ```
 ,-------------------------------------------.  
-| LCTRL(Z) | LCTRL(Z) | LCTRL(Z) | LCTRL(Z) |  
+| LCTRL(Z) | LCTRL(X) | LCTRL(C) | LCTRL(V) |  
 |----------+----------+----------+----------|  
 |   Left   |   Down   |    Up    |   Right  |  
 `-------------------------------------------' 
